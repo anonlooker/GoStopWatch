@@ -1,0 +1,33 @@
+# === Go compiled binary ===
+stopwatch
+*.exe
+*.test
+*.out
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# === Editors & IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Compiled libraries / objects ===
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# === Sensitive config ===
+.env
+.env.*
+
+# === Logs & temp ===
+*.log
+tmp/
+temp/
