@@ -49,4 +49,4 @@ go run .
 
 ## 许可证
 
-[GPLv3](LICENSE)
+[MPL-2.0](LICENSE)

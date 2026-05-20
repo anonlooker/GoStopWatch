@@ -49,4 +49,4 @@ go run .
 
 ## License
 
-[GPLv3](LICENSE)
+[MPL-2.0](LICENSE)
